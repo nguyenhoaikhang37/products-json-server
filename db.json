@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "id": "9ec59b55-7737-460e-be5d-045f43c0d824",
+      "name": "Shoes",
+      "createdAt": 1640767539527,
+      "updatedAt": 1640767539527
+    },
+    {
+      "id": "54793073-d2bf-4303-be5f-736324b1d58d",
+      "name": "Music",
+      "createdAt": 1640767539527,
+      "updatedAt": 1640767539527
+    },
+    {
+      "id": "c7c22fb9-3d3e-4c15-bcc8-170e79ea6eb2",
+      "name": "Home",
+      "createdAt": 1640767539527,
+      "updatedAt": 1640767539527
+    },
+    {
+      "id": "a9c593d1-67c6-45ff-9d45-47cc5dd09d3d",
+      "name": "Games",
+      "createdAt": 1640767539527,
+      "updatedAt": 1640767539527
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "9ec59b55-7737-460e-be5d-045f43c0d824",
+      "id": "d33e7136-dead-4d84-bbc4-6c1beb67567d",
+      "name": "Practical Soft Shoes",
+      "color": "olive",
+      "price": 824,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "9ec59b55-7737-460e-be5d-045f43c0d824",
+      "id": "b49f5299-23e9-4f87-ac94-639cdfc07a9d",
+      "name": "Refined Steel Tuna",
+      "color": "fuchsia",
+      "price": 500,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "9ec59b55-7737-460e-be5d-045f43c0d824",
+      "id": "aec13fe3-373d-4391-b625-8240d15282b9",
+      "name": "Handmade Soft Tuna",
+      "color": "magenta",
+      "price": 306,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "9ec59b55-7737-460e-be5d-045f43c0d824",
+      "id": "9a9e73cb-bc82-4fa7-b207-45aa12887807",
+      "name": "Rustic Granite Pizza",
+      "color": "magenta",
+      "price": 934,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "9ec59b55-7737-460e-be5d-045f43c0d824",
+      "id": "8563a2e2-1bb3-4436-bf7e-aa2333b7d566",
+      "name": "Unbranded Concrete Car",
+      "color": "maroon",
+      "price": 845,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "54793073-d2bf-4303-be5f-736324b1d58d",
+      "id": "a46f18c8-cd18-45cc-a568-8d93a76b8661",
+      "name": "Small Plastic Shirt",
+      "color": "lavender",
+      "price": 761,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "54793073-d2bf-4303-be5f-736324b1d58d",
+      "id": "e48263ad-7762-4373-9b2c-c720dbea6d1f",
+      "name": "Fantastic Plastic Table",
+      "color": "gold",
+      "price": 625,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "54793073-d2bf-4303-be5f-736324b1d58d",
+      "id": "909cf301-0508-4ed1-a5e3-cc7692cde9f8",
+      "name": "Intelligent Plastic Cheese",
+      "color": "teal",
+      "price": 136,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "54793073-d2bf-4303-be5f-736324b1d58d",
+      "id": "dd5ad64d-893c-4a48-9bf5-5fb2c9707da8",
+      "name": "Licensed Plastic Fish",
+      "color": "orchid",
+      "price": 442,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "54793073-d2bf-4303-be5f-736324b1d58d",
+      "id": "bcb74d51-7447-43d2-ac27-d5cdd0b27ae4",
+      "name": "Practical Concrete Shirt",
+      "color": "lavender",
+      "price": 314,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c7c22fb9-3d3e-4c15-bcc8-170e79ea6eb2",
+      "id": "c59e774a-e252-40dd-bce2-651ff2cdb8a3",
+      "name": "Handcrafted Metal Cheese",
+      "color": "purple",
+      "price": 15,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c7c22fb9-3d3e-4c15-bcc8-170e79ea6eb2",
+      "id": "fa7850bc-a41b-4551-b98a-7a1e23e31319",
+      "name": "Licensed Concrete Car",
+      "color": "gold",
+      "price": 672,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c7c22fb9-3d3e-4c15-bcc8-170e79ea6eb2",
+      "id": "3603607c-e21f-413c-a6bb-e0024f83493c",
+      "name": "Sleek Concrete Salad",
+      "color": "turquoise",
+      "price": 363,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c7c22fb9-3d3e-4c15-bcc8-170e79ea6eb2",
+      "id": "de9da306-b46e-4c3c-a049-28b804ec5f6f",
+      "name": "Practical Steel Car",
+      "color": "black",
+      "price": 929,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "c7c22fb9-3d3e-4c15-bcc8-170e79ea6eb2",
+      "id": "6224e779-0410-4606-9735-538f50da8c6b",
+      "name": "Sleek Frozen Pizza",
+      "color": "orchid",
+      "price": 853,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a9c593d1-67c6-45ff-9d45-47cc5dd09d3d",
+      "id": "70df272d-294c-42ae-919c-8f959be496e2",
+      "name": "Incredible Plastic Ball",
+      "color": "gold",
+      "price": 920,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a9c593d1-67c6-45ff-9d45-47cc5dd09d3d",
+      "id": "3a4ddbe9-e213-44cc-b66c-c6cf724cca26",
+      "name": "Ergonomic Frozen Tuna",
+      "color": "gold",
+      "price": 624,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a9c593d1-67c6-45ff-9d45-47cc5dd09d3d",
+      "id": "887521be-6c61-4e2b-b9f9-117f4cb79edb",
+      "name": "Practical Metal Bacon",
+      "color": "magenta",
+      "price": 875,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a9c593d1-67c6-45ff-9d45-47cc5dd09d3d",
+      "id": "3bf3bc44-7a32-41b0-a442-3fd49e65f4e5",
+      "name": "Generic Wooden Chips",
+      "color": "orchid",
+      "price": 689,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a9c593d1-67c6-45ff-9d45-47cc5dd09d3d",
+      "id": "efd41ee7-dbe7-4569-87a4-95dbd18c3e0d",
+      "name": "Fantastic Fresh Soap",
+      "color": "red",
+      "price": 631,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1640767539528,
+      "updatedAt": 1640767539528,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a9c593d1-67c6-45ff-9d45-47cc5dd09d3d",
+      "name": "Khang test",
+      "color": "gold",
+      "price": 999,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createdAt": 1640767986253,
+      "updatedAt": 1640767986253,
+      "id": "JE3rf2q"
+    }
+  ],
+  "profile": {
+    "name": "Khang Dev"
+  }
+}
